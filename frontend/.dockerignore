@@ -1,0 +1,13 @@
+# Node Frontend
+node_modules
+npm-debug.*
+
+# updated for webpack server and testing
+package-lock.json
+.DS_Store
+
+app.bundle.js
+app.bundle.js.map
+app.css
+app.css.map
+build/index.html
